@@ -77,7 +77,7 @@ export const loginAdmin = async (email,password) => {
         }
       }
       
-    const response = await fetch("/api/adminlogin", requestOptions)
+    const response = await fetch("http://testflaskapp-env.eba-xdrnw66m.us-east-2.elasticbeanstalk.com/api/adminlogin", requestOptions)
     const {
         success,
         token
