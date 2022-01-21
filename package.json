@@ -1,5 +1,5 @@
 {
-  "homepage": "http://akhunters.github.io/eapr-frontend",
+  "homepage": "http://akhunters.github.io",
   "name": "eapr-frontend",
   "proxy": "http://testflaskapp-env.eba-xdrnw66m.us-east-2.elasticbeanstalk.com",
   "version": "0.1.0",
