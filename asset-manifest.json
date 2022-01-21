@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/eapr-frontend/static/css/main.fce1dd1c.css",
-    "main.js": "/eapr-frontend/static/js/main.866c4a94.js",
-    "static/js/787.2d090128.chunk.js": "/eapr-frontend/static/js/787.2d090128.chunk.js",
-    "static/media/60111.jpg": "/eapr-frontend/static/media/60111.cfe9f79c746ba3002568.jpg",
-    "static/media/header_pic.jpg": "/eapr-frontend/static/media/header_pic.ccca039efd527ff2c40f.jpg",
-    "static/media/doctor_role.jpg": "/eapr-frontend/static/media/doctor_role.a6877f3e0223ac1b6ebd.jpg",
-    "static/media/3698931.jpeg": "/eapr-frontend/static/media/3698931.5ebc169cb3312582c7cd.jpeg",
-    "static/media/login_background.jpg": "/eapr-frontend/static/media/login_background.56e87456d0504a7b78ec.jpg",
-    "static/media/user_role.jpg": "/eapr-frontend/static/media/user_role.f64d2b307e6da469ebdd.jpg",
-    "static/media/scale.png": "/eapr-frontend/static/media/scale.86c8631dd502afea2645.png",
-    "static/media/thermometers.png": "/eapr-frontend/static/media/thermometers.8bf9039f724e9b4e8af7.png",
-    "static/media/blood-pressure.png": "/eapr-frontend/static/media/blood-pressure.2ddcfc0ae2b12a9d3566.png",
-    "static/media/pulse.png": "/eapr-frontend/static/media/pulse.ca27cd350daf025c4de2.png",
-    "static/media/respiration.png": "/eapr-frontend/static/media/respiration.345790cd3af5db717058.png",
-    "static/media/oxygen-saturation.png": "/eapr-frontend/static/media/oxygen-saturation.4b17fc8a49af6beb0ac6.png",
-    "static/media/body-mass-index.png": "/eapr-frontend/static/media/body-mass-index.296208acf9745ef8e147.png",
-    "index.html": "/eapr-frontend/index.html",
-    "main.fce1dd1c.css.map": "/eapr-frontend/static/css/main.fce1dd1c.css.map",
-    "main.866c4a94.js.map": "/eapr-frontend/static/js/main.866c4a94.js.map",
-    "787.2d090128.chunk.js.map": "/eapr-frontend/static/js/787.2d090128.chunk.js.map"
+    "main.css": "/static/css/main.71a91351.css",
+    "main.js": "/static/js/main.3d78e123.js",
+    "static/js/787.2d090128.chunk.js": "/static/js/787.2d090128.chunk.js",
+    "static/media/60111.jpg": "/static/media/60111.cfe9f79c746ba3002568.jpg",
+    "static/media/header_pic.jpg": "/static/media/header_pic.ccca039efd527ff2c40f.jpg",
+    "static/media/doctor_role.jpg": "/static/media/doctor_role.a6877f3e0223ac1b6ebd.jpg",
+    "static/media/3698931.jpeg": "/static/media/3698931.5ebc169cb3312582c7cd.jpeg",
+    "static/media/login_background.jpg": "/static/media/login_background.56e87456d0504a7b78ec.jpg",
+    "static/media/user_role.jpg": "/static/media/user_role.f64d2b307e6da469ebdd.jpg",
+    "static/media/scale.png": "/static/media/scale.86c8631dd502afea2645.png",
+    "static/media/thermometers.png": "/static/media/thermometers.8bf9039f724e9b4e8af7.png",
+    "static/media/blood-pressure.png": "/static/media/blood-pressure.2ddcfc0ae2b12a9d3566.png",
+    "static/media/pulse.png": "/static/media/pulse.ca27cd350daf025c4de2.png",
+    "static/media/respiration.png": "/static/media/respiration.345790cd3af5db717058.png",
+    "static/media/oxygen-saturation.png": "/static/media/oxygen-saturation.4b17fc8a49af6beb0ac6.png",
+    "static/media/body-mass-index.png": "/static/media/body-mass-index.296208acf9745ef8e147.png",
+    "index.html": "/index.html",
+    "main.71a91351.css.map": "/static/css/main.71a91351.css.map",
+    "main.3d78e123.js.map": "/static/js/main.3d78e123.js.map",
+    "787.2d090128.chunk.js.map": "/static/js/787.2d090128.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce1dd1c.css",
-    "static/js/main.866c4a94.js"
+    "static/css/main.71a91351.css",
+    "static/js/main.3d78e123.js"
   ]
 }
